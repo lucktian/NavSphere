@@ -925,16 +925,7 @@
       "icon": "Video",
       "description": "自媒体工具包",
       "enabled": true,
-      "items": [
-        {
-          "id": "1774691435387",
-          "title": "微博",
-          "href": "https://me.weibo.com",
-          "description": "访问 me.weibo.com",
-          "icon": "/assets/img_1774691870737.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
@@ -965,6 +956,14 @@
               "href": "https://creator.xiaohongshu.com/",
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.webp",
+              "enabled": true
+            },
+            {
+              "id": "1774691435387",
+              "title": "微博",
+              "href": "https://me.weibo.com",
+              "description": "访问 me.weibo.com",
+              "icon": "/assets/img_1774692485333.png",
               "enabled": true
             }
           ]
