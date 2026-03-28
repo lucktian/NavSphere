@@ -925,7 +925,16 @@
       "icon": "Video",
       "description": "自媒体工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1774692659279_st5lyq1hz",
+          "title": "知乎",
+          "href": "https://www.zhihu.com/people/runningcheese",
+          "description": "访问 www.zhihu.com",
+          "icon": "/assets/favicon_1774692618880.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
