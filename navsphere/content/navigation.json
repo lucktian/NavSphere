@@ -925,7 +925,16 @@
       "icon": "Video",
       "description": "自媒体工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1774691435387",
+          "title": "微博",
+          "href": "https://me.weibo.com",
+          "description": "访问 me.weibo.com",
+          "icon": "/assets/favicon_1774691468079.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
